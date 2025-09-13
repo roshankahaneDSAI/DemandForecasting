@@ -1,0 +1,16 @@
+numpy
+pandas
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
+cryptography
+ipykernel
+seaborn
+catboost
+xgboost
+mlflow
+flask
+# pickle
+# dill
+# -e .

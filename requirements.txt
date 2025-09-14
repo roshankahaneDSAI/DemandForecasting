@@ -1,9 +1,11 @@
 numpy
 pandas
 python-dotenv
+statsmodels
 mysql-connector-python
 pymysql
 scikit-learn
+sktime
 cryptography
 ipykernel
 seaborn
